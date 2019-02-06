@@ -21,7 +21,6 @@ body {
   }
   
   .container {
-    padding: 30px;
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
@@ -112,7 +111,7 @@ body {
   }
   
   /* portfolio page */
-  
+
   .work {
     position: relative;
     float: left;
