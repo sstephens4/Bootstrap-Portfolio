@@ -26,6 +26,7 @@ body {
     margin: 0 auto;
     clear: both;
   }
+
   
   h1,
   h2,
@@ -96,8 +97,11 @@ body {
   /* main */
   
   #main-container {
+    font-family:'Barlow Semi Condensed', sans-serif;
+    font-size: 20px;
     padding-top: 120px;
     min-height: calc(100vh - 70px);
+    border-color: black;
   }
   
   .main-section {
